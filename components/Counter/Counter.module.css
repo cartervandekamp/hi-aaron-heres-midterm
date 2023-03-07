@@ -1,0 +1,15 @@
+.container {
+    display: flex;
+    flex-direction: column;
+}
+
+.container > button {
+    width: 200px;
+    height: 30px;
+    border-radius: 10px;
+    border: 2px solid lightblue;
+    background-color: lightblue;
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+}
